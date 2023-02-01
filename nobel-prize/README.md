@@ -1,8 +1,8 @@
 Include the code you changed on the webpage using [code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) in this file (`README.md`). Attach a screenshot of the final edit as well. You can attach images to a markdown file using the following syntax:
 
 ```markdown
-![Kyrie Irving's Nobel Prize](nobel-prize/KyrieIrvingNobelPrize.png)
-```
+![Kyrie Irving's Nobel Prize](KyrieIrvingNobelPrize.png)
+
 
 Code:
 <h5 class="heading"> The Nobel Prize in Algebraic Topology 2022 </h5>
@@ -18,3 +18,4 @@ Code:
 <span id="dropdown-js-laureate-more" class="prizes-nav-menu-icon">Algebraic Topology</span>
 
 <span class="category-title"> The Nobel Prize in Algebraic Topology 2022 </span>
+```
